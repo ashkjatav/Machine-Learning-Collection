@@ -130,3 +130,5 @@ for epoch in range(num_epochs):
                 writer_fake.add_image(
                     "Mnist Fake Images", img_grid_fake, global_step=step
                 )
+
+print('done')
