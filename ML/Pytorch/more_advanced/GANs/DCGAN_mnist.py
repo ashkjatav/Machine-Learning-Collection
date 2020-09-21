@@ -31,6 +31,7 @@ from model_utils import (
 )  # Import our models we've defined (from DCGAN paper)
 
 # Hyperparameters
+
 lr = 0.0005
 batch_size = 64
 image_size = 64
